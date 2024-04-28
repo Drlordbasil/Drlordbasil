@@ -1,5 +1,1 @@
-[![DrLordBasil's GitHub stats](https://github-readme-stats.vercel.app/api?username=drlordbasil)](https://github.com/drlordbasil/github-readme-stats)
-
-I just want to collaborate with different styles of programmers. 
-
-I want dev friends D:
+![image](https://github.com/Drlordbasil/Drlordbasil/assets/126736516/49a1a0bc-f3e0-4fc3-bf03-5d169ee4405d)
