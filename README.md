@@ -1,7 +1,7 @@
 
 # Hello, World! I'm Anthony Snider 👋
 
-I believe in a future where AI does more than just compute; it collaborates. Here's where I craft that future.
+I believe in a future where AI does more than just compute; it collaborates. Here's where I craft that future. I have around 3 years of experience working with LLM, AI flows, and have worked on agentic workflows for about 2 years. 
 
 ## About Me
 - 🔭 I’m currently working on automating everything with a touch of AI magic.
