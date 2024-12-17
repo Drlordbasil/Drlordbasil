@@ -3,6 +3,7 @@
 <div align="center">
 
 🤖
+MOST PROJECTS HAVE BEEN PRIVATISED FOR NOW!
 
 [![GitHub followers](https://img.shields.io/github/followers/drlordbasil?style=social)](https://github.com/drlordbasil)
 
