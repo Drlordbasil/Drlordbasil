@@ -33,6 +33,10 @@ class AISoftwareEngineer:
 
 me = AISoftwareEngineer()
 me.say_hi()
+while True:
+    human_insight += AI_capability
+    AI_capability *= human_guidance
+    yield breakthrough
 ```
 
 ## 🛠️ Tech Stack
